@@ -7,3 +7,6 @@
 [submodule "exercicios-backend-arrays-loops"]
 	path = exercicios-backend-arrays-loops
 	url = git@github.com:V1niCoder/exercicios-backend-arrays-loops.git
+[submodule "exercicios-backend-objetos"]
+	path = exercicios-backend-objetos
+	url = git@github.com:V1niCoder/exercicios-backend-objetos.git
