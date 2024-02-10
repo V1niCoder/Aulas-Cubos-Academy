@@ -4,3 +4,6 @@
 [submodule "exercicios-backend-condicionais"]
 	path = exercicios-backend-condicionais
 	url = https://github.com/V1niCoder/exercicios-backend-condicionais
+[submodule "exercicios-backend-arrays-loops"]
+	path = exercicios-backend-arrays-loops
+	url = git@github.com:V1niCoder/exercicios-backend-arrays-loops.git
