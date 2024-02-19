@@ -10,3 +10,6 @@
 [submodule "exercicios-backend-objetos"]
 	path = exercicios-backend-objetos
 	url = git@github.com:V1niCoder/exercicios-backend-objetos.git
+[submodule "exercicios-backend-funcoes"]
+	path = exercicios-backend-funcoes
+	url = https://github.com/V1niCoder/exercicios-backend-funcoes
