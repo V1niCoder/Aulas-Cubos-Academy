@@ -16,3 +16,6 @@
 [submodule "exercicios-backend-metodos-strings"]
 	path = exercicios-backend-metodos-strings
 	url = https://github.com/V1niCoder/exercicios-backend-metodos-strings
+[submodule "exercicios-backend-metodos-arrays"]
+	path = exercicios-backend-metodos-arrays
+	url = https://github.com/V1niCoder/exercicios-backend-metodos-arrays
