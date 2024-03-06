@@ -19,3 +19,6 @@
 [submodule "exercicios-backend-metodos-arrays"]
 	path = exercicios-backend-metodos-arrays
 	url = https://github.com/V1niCoder/exercicios-backend-metodos-arrays
+[submodule "exercicios-backend-metodos-arrays-2"]
+	path = exercicios-backend-metodos-arrays-2
+	url = git@github.com:V1niCoder/exercicios-backend-metodos-arrays-2.git
