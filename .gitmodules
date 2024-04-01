@@ -25,3 +25,6 @@
 [submodule "exercicios-backend-metodos-arrays-3"]
 	path = exercicios-backend-metodos-arrays-3
 	url = git@github.com:V1niCoder/exercicios-backend-metodos-arrays-3.git
+[submodule "desafio-de-logica-modulo-1-dds-t16"]
+	path = desafio-de-logica-modulo-1-dds-t16
+	url = git@github.com:V1niCoder/desafio-de-logica-modulo-1-dds-t16.git
