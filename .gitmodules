@@ -28,3 +28,6 @@
 [submodule "desafio-de-logica-modulo-1-dds-t16"]
 	path = desafio-de-logica-modulo-1-dds-t16
 	url = git@github.com:V1niCoder/desafio-de-logica-modulo-1-dds-t16.git
+[submodule "exercicios-backend-primeiro-servidor"]
+	path = exercicios-backend-primeiro-servidor
+	url = git@github.com:V1niCoder/exercicios-backend-primeiro-servidor.git
