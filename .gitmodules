@@ -31,6 +31,3 @@
 [submodule "exercicios-backend-primeiro-servidor"]
 	path = exercicios-backend-primeiro-servidor
 	url = git@github.com:V1niCoder/exercicios-backend-primeiro-servidor.git
-[submodule "exercicios-backend-rotas-intermediarios-controladores"]
-	path = exercicios-backend-rotas-intermediarios-controladores
-	url = git@github.com:V1niCoder/exercicios-backend-rotas-intermediarios-controladores.git
