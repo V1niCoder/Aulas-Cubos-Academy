@@ -34,3 +34,6 @@
 [submodule "exercicios-backend-rotas-intermediarios-controladores"]
 	path = exercicios-backend-rotas-intermediarios-controladores
 	url = https://github.com/V1niCoder/exercicios-backend-rotas-intermediarios-controladores
+[submodule "exercicios-backend-api-rest"]
+	path = exercicios-backend-api-rest
+	url = git@github.com:V1niCoder/exercicios-backend-api-rest.git
