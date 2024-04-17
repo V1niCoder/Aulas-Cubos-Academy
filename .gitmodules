@@ -37,3 +37,6 @@
 [submodule "exercicios-backend-api-rest"]
 	path = exercicios-backend-api-rest
 	url = git@github.com:V1niCoder/exercicios-backend-api-rest.git
+[submodule "exercicios-backend-programacao-assincrona"]
+	path = exercicios-backend-programacao-assincrona
+	url = git@github.com:V1niCoder/exercicios-backend-programacao-assincrona.git
