@@ -40,3 +40,6 @@
 [submodule "exercicios-backend-programacao-assincrona"]
 	path = exercicios-backend-programacao-assincrona
 	url = git@github.com:V1niCoder/exercicios-backend-programacao-assincrona.git
+[submodule "exercicios-backend-leitura-escrita-arquivos"]
+	path = exercicios-backend-leitura-escrita-arquivos
+	url = git@github.com:V1niCoder/exercicios-backend-leitura-escrita-arquivos.git
