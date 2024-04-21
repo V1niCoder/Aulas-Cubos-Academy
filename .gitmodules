@@ -43,3 +43,6 @@
 [submodule "exercicios-backend-leitura-escrita-arquivos"]
 	path = exercicios-backend-leitura-escrita-arquivos
 	url = git@github.com:V1niCoder/exercicios-backend-leitura-escrita-arquivos.git
+[submodule "back-integral-datas-em-js"]
+	path = back-integral-datas-em-js
+	url = git@github.com:V1niCoder/back-integral-datas-em-js.git
