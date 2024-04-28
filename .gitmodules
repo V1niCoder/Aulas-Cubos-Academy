@@ -46,3 +46,6 @@
 [submodule "back-integral-datas-em-js"]
 	path = back-integral-datas-em-js
 	url = git@github.com:V1niCoder/back-integral-datas-em-js.git
+[submodule "desafio-backend-m02-dds-t16"]
+	path = desafio-backend-m02-dds-t16
+	url = git@github.com:V1niCoder/desafio-backend-m02-dds-t16.git
