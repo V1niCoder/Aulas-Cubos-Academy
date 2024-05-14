@@ -49,3 +49,6 @@
 [submodule "desafio-backend-m02-dds-t16"]
 	path = desafio-backend-m02-dds-t16
 	url = git@github.com:V1niCoder/desafio-backend-m02-dds-t16.git
+[submodule "exercicios-backend-consultas-sql"]
+	path = exercicios-backend-consultas-sql
+	url = git@github.com:V1niCoder/exercicios-backend-consultas-sql.git
