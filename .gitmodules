@@ -52,3 +52,6 @@
 [submodule "exercicios-backend-consultas-sql"]
 	path = exercicios-backend-consultas-sql
 	url = git@github.com:V1niCoder/exercicios-backend-consultas-sql.git
+[submodule "exercicios-backend-funcoes-postgresql"]
+	path = exercicios-backend-funcoes-postgresql
+	url = git@github.com:V1niCoder/exercicios-backend-funcoes-postgresql.git
