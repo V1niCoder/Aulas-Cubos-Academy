@@ -55,3 +55,6 @@
 [submodule "exercicios-backend-funcoes-postgresql"]
 	path = exercicios-backend-funcoes-postgresql
 	url = git@github.com:V1niCoder/exercicios-backend-funcoes-postgresql.git
+[submodule "exercicios-backend-crud-sql"]
+	path = exercicios-backend-crud-sql
+	url = git@github.com:V1niCoder/exercicios-backend-crud-sql.git
