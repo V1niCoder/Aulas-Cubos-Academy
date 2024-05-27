@@ -58,3 +58,6 @@
 [submodule "exercicios-backend-crud-sql"]
 	path = exercicios-backend-crud-sql
 	url = git@github.com:V1niCoder/exercicios-backend-crud-sql.git
+[submodule "exercicios-backend-modelagem-dados"]
+	path = exercicios-backend-modelagem-dados
+	url = git@github.com:V1niCoder/exercicios-backend-modelagem-dados.git
