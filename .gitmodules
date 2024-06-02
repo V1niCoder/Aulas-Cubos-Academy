@@ -61,3 +61,9 @@
 [submodule "exercicios-backend-modelagem-dados"]
 	path = exercicios-backend-modelagem-dados
 	url = git@github.com:V1niCoder/exercicios-backend-modelagem-dados.git
+[submodule "exercicios-backend-conexao-nodejs-postgresql"]
+	path = exercicios-backend-conexao-nodejs-postgresql
+	url = git@github.com:V1niCoder/exercicios-backend-conexao-nodejs-postgresql.git
+[submodule "exercicios-backend-autenticacao-criptografia"]
+	path = exercicios-backend-autenticacao-criptografia
+	url = git@github.com:V1niCoder/exercicios-backend-autenticacao-criptografia.git
