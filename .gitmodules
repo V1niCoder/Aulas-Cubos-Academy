@@ -67,3 +67,6 @@
 [submodule "exercicios-backend-autenticacao-criptografia"]
 	path = exercicios-backend-autenticacao-criptografia
 	url = git@github.com:V1niCoder/exercicios-backend-autenticacao-criptografia.git
+[submodule "exercicios-backend-integracao-api-terceiros"]
+	path = exercicios-backend-integracao-api-terceiros
+	url = git@github.com:V1niCoder/exercicios-backend-integracao-api-terceiros.git
